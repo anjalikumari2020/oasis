@@ -1,0 +1,43 @@
+body{
+  background-color: #db1010;
+}*
+#convert {
+    background-color: #d5ae1f;
+  }
+  #convert:hover {
+    background-color: #ededea;
+    margin-top: 50px;
+  }
+  h1 {
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    color: #f2f2f2;
+  }
+  input {
+    display: block;
+    text-align:center;
+    margin-top: 100px;
+    font-size: 2em;
+    color: #f4a55a;
+    font-family: cursive, sans-serif;
+  }
+  ::-webkit-input-placeholder {
+     color: #ccc;
+  }
+  :-moz-placeholder { 
+     color: #ccc;  
+  }
+  ::-moz-placeholder {
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  button {
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2em;
+    color: #545454;
+  }
